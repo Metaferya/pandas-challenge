@@ -4,13 +4,16 @@
 
 # Purpose
 
-•	The purpose of this project is to help the school board and mayor in the city’s school district on making strategic decisions regarding future school budget and priorities.
+•	The purpose of this project is to help the school board and mayor in the city’s school district on making strategic 
+decisions regarding future school budget and priorities.
 
 # Description
 
-•	This project analyzes school performance in the PyCity school district. The analysis includes various metrics to assess the overall performance of the schools, including average test scores, passing rates, and performance by school spending, size and type.
+•	This project analyzes school performance in the PyCity school district. The analysis includes various 
+metrics to assess the overall performance of the schools, including average test scores, passing rates, and performance by school spending, size and type.
 
 # Table of Contents
+- [PyCity Schools Analysis] (#PyCity Schools Analysis)
 - [Installation Instructions] (#installation Instructions)
 - [Technologies Used] (#Technologies Used) 
 - [How to use] (#How to use)
@@ -21,6 +24,23 @@
 - [Scores by School Spending] (#scores-by-school-spending)
 - [Scores by School Size] (#scores-by-school-size)
 - [Scores by School Type] (#scores-by-school-type)
+
+# PyCity Schools Analysis
+
+**Analysis Summary**
+
+The PyCity Schools Analysis evaluates the performance of schools within the district by calculating several key metrics. 
+These metrics include the total number of unique schools, total students, total budget, average math and reading scores, 
+and the percentage of students passing math, reading, and both subjects combined. Additionally, the analysis drills down
+ into specific summaries based on school type, size, and spending per student.
+
+**Two correct conclusions or comparisons from the calculations**
+
+Conclusion 1: Charter Schools Outperform District Schools.Charter schools consistently show higher performance metrics compared to district schools.
+
+Conclusion 2: Lower Per Student Spending Does Not Necessarily Mean Lower Performance.The analysis reveals that schools with lower per-student spending
+tend to have higher average test scores and passing rates.
+
 
 # Installation Instructions
 
